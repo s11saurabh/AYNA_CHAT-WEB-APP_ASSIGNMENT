@@ -6,6 +6,7 @@ AYNA_CHAT-WEB-APP is a modern real-time chat application built using the MERN (M
 ## Live Demo
 NOTE:(Deployed link takes 30-40 sec to open.pls wait after clicking on it)
 - **Deployed Site**: [https://realtalk-opov.onrender.com/login](https://realtalk-opov.onrender.com/login)
+
 TESTING: feel free to signup with two different account by clicking on "Don`t have account" and use the implemented functionality
 
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/302ebe40-89ef-4a76-ae2b-205dbe40e44e" />

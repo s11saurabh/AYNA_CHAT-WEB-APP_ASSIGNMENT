@@ -4,7 +4,7 @@
 AYNA_CHAT-WEB-APP is a modern real-time chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application provides a seamless chat experience with real-time message delivery between user and server, user authentication, and a responsive design that works across all devices. This project was developed as part of an assignment to demonstrate WebSocket communication for instant messaging between client and server.
 
 ## Live Demo
-(Deployed link takes 30-40 sec to open.pls wait after clicking on it)
+NOTE:(Deployed link takes 30-40 sec to open.pls wait after clicking on it)
 - **Deployed Site**: [https://realtalk-opov.onrender.com/login](https://realtalk-opov.onrender.com/login)
 
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/302ebe40-89ef-4a76-ae2b-205dbe40e44e" />
